@@ -10,20 +10,18 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifor, atualme
 - Produção de Conteúdo para Redes Sociais
 
 ## 🛠️ Tecnologias que Estou Explorando
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (Flask), Java
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js
+- **Backend**: Python (Flask), Java, Node
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, WampServer, Bootstrap
 
 ## 📚 O que Estou Estudando
-- Desenvolvimento de sistemas web com Flask
 - Criação de projetos com Spring Boot
 - Fundamentos de Ciência de Dados e Inteligência Artificial
 
 ## 📈 Experiências
-- Criação de posts para redes sociais (já trabalhei com posts para uma clínica estética)
 - Desenvolvimento de sistema de gerenciamento de produtos
-- Sistema de cadastro de alunos para reforço escolar
+- Desenvolvimento de um sistema para hoteis de pets
 
 ## 📩 Como me Encontrar
 - **Email**: ronaldo00flho@gmail.com
